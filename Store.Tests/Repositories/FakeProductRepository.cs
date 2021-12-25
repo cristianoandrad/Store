@@ -1,5 +1,5 @@
 ﻿using Store.Domain.Entities;
-using Store.Domain.Repositories;
+using Store.Domain.Repositories.Interfaces;
 using System;
 using System.Collections.Generic;
 

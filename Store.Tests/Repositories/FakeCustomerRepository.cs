@@ -3,7 +3,7 @@ using Store.Domain.Repositories.Interfaces;
 
 namespace Store.Tests.Repositories
 {
-    public class FakeCustomerRepositories : ICustomerRepository
+    public class FakeCustomerRepository : ICustomerRepository
     {
         public Customer Get(string document)
         {
